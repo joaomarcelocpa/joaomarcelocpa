@@ -1,4 +1,4 @@
-### Olá me chamo João Marcelo 👋
+### Olá, me chamo João Marcelo,  sou estudante de Engenharia de Software na PUC-Minas 👋
 
 <!--
 **joaomarcelocpa/joaomarcelocpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
