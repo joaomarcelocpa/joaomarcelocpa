@@ -1,4 +1,5 @@
-### Olá, me chamo João Marcelo,  sou estudante de Engenharia de Software na PUC-Minas 👋
+### Olá, me chamo João Marcelo,  sou estudante de Engenharia de Software na PUC-Minas
+### Tenho experiência na área de contabilidade bancária de pequenas e médias empresas e também já desempenhei o papel de designer gráfico para marketing em mídias digitais. ### 👋
 
 <!--
 **joaomarcelocpa/joaomarcelocpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
