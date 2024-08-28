@@ -1,4 +1,4 @@
-### Olá 👋, me chamo João Marcelo,  sou estudante de Engenharia de Software na PUC-Minas
+### Olá 👋, me chamo João Marcelo,  sou estudante de Engenharia de Software na PUC Minas
 
 
 <!--
