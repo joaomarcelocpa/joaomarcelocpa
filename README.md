@@ -6,7 +6,7 @@
 
 
 
-<p align="left">Olá, me chamo João Marcelo, sou desenvolvedor júnior e estudante de engenharia de software na Pontifícia Universidade Católica de Minas Gerais, a PUC Minas. Tenho 18 anos, resido na cidade de Pedro Leopoldo, região metropolitana de Belo Horizonte e possuo muito interesse no aprendizado de novas tecnologias, tanto em front-end, quanto back-end. Atualmente estou no segundo período da graduação, tendo iniciado o curso em fevereiro de 2024.<br><br>Acredito no potencial transformador da tecnologia na sociedade, principalmente na resolução de problemas, otimização de tempo e  melhoria da qualidade de vida e trabalho. Se você procura alguém com paixão por resolver desafios e uma visão moderna de desenvolvimento de software, estou pronto para colaborar!</p>
+<p align="left">Olá, me chamo João Marcelo, sou desenvolvedor júnior e estudante de engenharia de software na Pontifícia Universidade Católica de Minas Gerais, a PUC Minas. Tenho 19 anos, resido na cidade de Pedro Leopoldo, região metropolitana de Belo Horizonte e possuo muito interesse no aprendizado de novas tecnologias, tanto em front-end, quanto back-end. Atualmente estou no terceiro período da graduação, tendo iniciado o curso em fevereiro de 2024.<br><br>Acredito no potencial transformador da tecnologia na sociedade, principalmente na resolução de problemas, otimização de tempo e  melhoria da qualidade de vida e trabalho. Se você procura alguém com paixão por resolver desafios e uma visão moderna de desenvolvimento de software, estou pronto para colaborar!</p>
 
 ###
 
