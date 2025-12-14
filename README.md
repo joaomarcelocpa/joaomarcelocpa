@@ -3,7 +3,7 @@
 
 <h2 align="left">Sobre mim:</h2>
 
-<p align="left">Olá, me chamo João Marcelo, sou desenvolvedor júnior e estudante de engenharia de software na Pontifícia Universidade Católica de Minas Gerais, a PUC Minas. Tenho 19 anos, resido na cidade de Pedro Leopoldo, região metropolitana de Belo Horizonte e possuo muito interesse no aprendizado de novas tecnologias, tanto em front-end, quanto back-end. Atualmente estou no quinta período da graduação, com previsão de conclusão para dezembro de 2027.<br><br>Acredito no potencial transformador da tecnologia na sociedade, principalmente na resolução de problemas, otimização de tempo e melhoria da qualidade de vida e trabalho. Se você procura alguém com paixão por resolver desafios e uma visão moderna de desenvolvimento de software, estou pronto para colaborar!<br><br> Confira meus projetos e experiências completas no meu <a href="https://joaomarcelocpa.dev" target="_blank"><strong>portfólio</strong></a>.</p>
+<p align="left">Olá, me chamo João Marcelo, sou desenvolvedor júnior e estudante de engenharia de software na Pontifícia Universidade Católica de Minas Gerais, a PUC Minas. Tenho 19 anos, resido na cidade de Pedro Leopoldo, região metropolitana de Belo Horizonte e possuo muito interesse no aprendizado de novas tecnologias, tanto em front-end, quanto back-end. Atualmente estou no quinto período da graduação, com previsão de conclusão para dezembro de 2027.<br><br>Acredito no potencial transformador da tecnologia na sociedade, principalmente na resolução de problemas, otimização de tempo e melhoria da qualidade de vida e trabalho. Se você procura alguém com paixão por resolver desafios e uma visão moderna de desenvolvimento de software, estou pronto para colaborar!<br><br> Confira meus projetos e experiências completas no meu <a href="https://joaomarcelocpa.dev" target="_blank"><strong>Portfólio</strong></a></p>
 
 <h2 align="left">Tecnologias favoritas:</h2>
 
@@ -63,9 +63,9 @@
   <a href="https://www.instagram.com/joaomarcelocpa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram logo" />
   </a>
-  <a href="mailto:joaomarcelocpa0303@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaomarcelocpa0303@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
+</a>
 </div>
 
 ###
